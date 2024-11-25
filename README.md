@@ -1,6 +1,6 @@
 **Bottom Navigation Bar in Jetpack Compose**
 
-This GitHub project demonstrates the implementation of a Bottom Navigation Bar in Jetpack Compose, showcasing smooth navigation between screens with a clean and modern design. The example includes three screens: Home, Chat, and Settings, with each screen displaying its name when navigated.
+This GitHub project demonstrates the implementation of a Bottom Navigation Bar in Jetpack Compose, showcasing smooth navigation between screens with a clean and modern design. The example includes three screens: Home, Chat, and Settings, with each screen displaying its name when navigated..
 
 **Features**
 
